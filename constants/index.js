@@ -17,7 +17,7 @@ export const exploreWorlds = [
   {
     id: 'world-4',
     imgUrl: '/planet-04.png',
-    title: 'The Zeus',
+    title: 'The Devom',
   },
   {
     id: 'world-5',
@@ -28,8 +28,8 @@ export const exploreWorlds = [
 
 export const startingFeatures = [
   'Find a world that suits you and you want to enter',
-  'Enter the world by reading basmalah to be safe',
-  'No need to beat around the bush, just stay on the gas and have fun',
+  'Enter the world by saying "Yeah b****, I am here!"',
+  'No need to find anything, just stay on the gas and have fun',
 ];
 
 export const newFeatures = [
@@ -50,21 +50,23 @@ export const newFeatures = [
 export const insights = [
   {
     imgUrl: '/planet-06.png',
-    title: 'The launch of the Metaverse makes Elon musk ketar-ketir',
+    title: 'The launch of the Metaverse makes Elon Musk anxious!',
     subtitle:
-        'Magna etiam tempor orci eu lobortis elementum nibh tellus molestie. Diam maecenas sed enim ut sem viverra alique.',
+        'Meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow',
   },
   {
     imgUrl: '/planet-07.png',
-    title: '7 tips to easily master the madness of the Metaverse',
+    title: 'How you can explore Metaverse?',
     subtitle:
-        'Vitae congue eu consequat ac felis donec. Et magnis dis parturient montes nascetur ridiculus mus. Convallis tellus id interdum',
+    'Meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow',
+
   },
   {
     imgUrl: '/planet-08.png',
-    title: 'With one platform you can explore the whole world virtually',
+    title: 'You are no more bound to one world!',
     subtitle:
-        'Quam quisque id diam vel quam elementum. Viverra nam libero justo laoreet sit amet cursus sit. Mauris in aliquam sem',
+    'Meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow',
+
   },
 ];
 
